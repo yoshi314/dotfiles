@@ -3,6 +3,8 @@
 syntax enable
 
 " compatibility for xfce4-terminal colors from vim-airline
+" otherwise they are broken
+" possibly not necessary outside of that terminal
 set t_Co=256
 
 " always show vim-airline
@@ -17,6 +19,8 @@ filetype indent on
 set wildmenu  " menu completion on
 
 set showmatch " match parentheses
+
+" this is necessary for vundle
 
 set nocompatible              " be iMproved, required
 filetype off                  " required
@@ -39,6 +43,4 @@ filetype plugin indent on    " required
 " :PluginInstall    - installs plugins; append `!` to update or just :PluginUpdate
 " :PluginSearch foo - searches for foo; append `!` to refresh local cache
 " :PluginClean      - confirms removal of unused plugins; append `!` to auto-approve removal
-"
-" see :h vundle for more details or wiki for FAQ
-" Put your non-Plugin stuff after this line
+

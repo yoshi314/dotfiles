@@ -7,3 +7,6 @@
 [submodule ".vim/bundle/skittles_berry"]
 	path = .vim/bundle/skittles_berry
 	url = https://github.com/shawncplus/skittles_berry.git
+[submodule ".oh-my-zsh"]
+	path = .oh-my-zsh
+	url = https://github.com/robbyrussell/oh-my-zsh.git

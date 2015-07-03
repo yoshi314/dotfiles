@@ -32,6 +32,7 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 
 Plugin 'bling/vim-airline'
+Plugin 'shawncplus/skittles_berry'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
@@ -54,3 +55,5 @@ imap <up> <nop>
 imap <down> <nop>
 imap <left> <nop>
 imap <right> <nop>
+
+colorscheme skittles_berry

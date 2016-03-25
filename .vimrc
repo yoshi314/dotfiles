@@ -83,4 +83,6 @@ inoremap <A-j> <C-o>j
 inoremap <A-k> <C-o>k
 inoremap <A-l> <C-o>l
 
+" sane tabbing, and replacing tabs with spaces
+:set tabstop=4 shiftwidth=4 expandtab
 

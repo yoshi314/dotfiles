@@ -86,3 +86,5 @@ inoremap <A-l> <C-o>l
 " sane tabbing, and replacing tabs with spaces
 :set tabstop=4 shiftwidth=4 expandtab
 
+" alias for saving as root
+command W :execute ':silent w !sudo tee % > /dev/null' | :edit!

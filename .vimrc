@@ -36,6 +36,7 @@ Plugin 'shawncplus/skittles_berry'
 
 Plugin 'haya14busa/incsearch.vim'
 Plugin 'haya14busa/incsearch-fuzzy.vim'
+Plugin 'chase/vim-ansible-yaml'
 
 
 call vundle#end()            " required

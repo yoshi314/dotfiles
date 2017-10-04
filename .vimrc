@@ -39,6 +39,7 @@ Plugin 'haya14busa/incsearch-fuzzy.vim'
 Plugin 'chase/vim-ansible-yaml'
 Plugin '2072/PHP-Indenting-for-VIm'
 Plugin 'othree/html5.vim'
+Plugin 'blueyed/smarty.vim'
 
 
 call vundle#end()            " required

@@ -40,6 +40,7 @@ Plugin 'chase/vim-ansible-yaml'
 Plugin '2072/PHP-Indenting-for-VIm'
 Plugin 'othree/html5.vim'
 Plugin 'blueyed/smarty.vim'
+Plugin 'pangloss/vim-javascript'
 
 
 call vundle#end()            " required

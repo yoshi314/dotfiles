@@ -10,8 +10,8 @@ set t_Co=256
 " always show vim-airline
 set laststatus=2
 
-set number " line numbering
-" set showcmd "always show cmdline
+set number relativenumber " line numbering
+"set showcmd "always show cmdline
 "set cursorline " underline the cursor line
 
 filetype indent on

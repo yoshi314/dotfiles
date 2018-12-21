@@ -94,3 +94,8 @@ inoremap <A-l> <C-o>l
 
 " alias for saving as root
 command W :execute ':silent w !sudo tee % > /dev/null' | :edit!
+
+"copy to Xclipboard and also to primary selection
+vnoremap <C-c> "*y :let @+=@*<CR>
+"paste from primary selection
+map <C-v> "yP

@@ -1,4 +1,1 @@
-urls-source "inoreader"
-
-inoreader-login "yoshi314"
-inoreader-passwordfile "~/.config/inoreader.pass"
+browser "firefox %u"

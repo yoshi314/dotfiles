@@ -5,7 +5,7 @@ bindkey -v
 export KEYTIMEOUT=1
 
 # Path to your oh-my-zsh installation.
-export ZSH=/home/yoshi/.oh-my-zsh
+export ZSH=/home/mkowalski/.oh-my-zsh
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/

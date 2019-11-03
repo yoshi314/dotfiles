@@ -59,38 +59,9 @@ plugins=(git thefuck vi-mode)
 
 # User configuration
 
-#export PATH="/opt/freescale/usr/local/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin:/usr/lib/ccache/bin:/opt/freescale/usr/local/gcc-4.1.2-glibc-2.5-nptl-3/arm-none-linux-gnueabi/bin:/usr/lib/ccache/bin:/usr/local/bin:/usr/bin:/bin:/opt/bin:/usr/x86_64-pc-linux-gnu/gcc-bin/4.9.3:/usr/x86_64-pc-linux-gnu/avr/gcc-bin/4.8.3:/opt/Citrix/ICAClient:/usr/games/bin:/home/yoshi/opt/ps2dev/bin:/home/yoshi/opt/ps2dev/ee/bin:/home/yoshi/opt/ps2dev/iop/bin:/home/yoshi/opt/ps2dev/dvp/bin:/home/yoshi/opt/ps2dev/ps2sdk/bin:/home/yoshi/bin:/home/yoshi/opt/pspdev/bin:/home/yoshi/opt/pspdev/psp/sdk/bin:/home/yoshi/opt/ps3dev/bin:/home/yoshi/opt/ps3dev/ppu/bin:/home/yoshi/opt/ps3dev/spu/bin:/home/yoshi/opt/ps2dev/bin:/home/yoshi/opt/ps2dev/ee/bin:/home/yoshi/opt/ps2dev/iop/bin:/home/yoshi/opt/ps2dev/dvp/bin:/home/yoshi/opt/ps2dev/ps2sdk/bin:/home/yoshi/bin:/home/yoshi/opt/pspdev/bin:/home/yoshi/opt/pspdev/psp/sdk/bin:/home/yoshi/opt/ps3dev/bin:/home/yoshi/opt/ps3dev/ppu/bin:/home/yoshi/opt/ps3dev/spu/bin"
-# export MANPATH="/usr/local/man:$MANPATH"
-#
 export PATH=/home/yoshi/opt/bin:$PATH
 
 source $ZSH/oh-my-zsh.sh
-
-# You may need to manually set your language environment
-# export LANG=en_US.UTF-8
-
-# Preferred editor for local and remote sessions
-# if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
-# else
-#   export EDITOR='mvim'
-# fi
-
-# Compilation flags
-# export ARCHFLAGS="-arch x86_64"
-
-# ssh
-# export SSH_KEY_PATH="~/.ssh/dsa_id"
-
-# Set personal aliases, overriding those provided by oh-my-zsh libs,
-# plugins, and themes. Aliases can be placed here, though oh-my-zsh
-# users are encouraged to define aliases within the ZSH_CUSTOM folder.
-# For a full list of active aliases, run `alias`.
-#
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
-#
 export PS3DEV=/home/yoshi/opt/ps3dev
 export PSL1GHT=$PS3DEV
 export PATH=$PATH:$PS3DEV/bin
@@ -118,3 +89,18 @@ export QT_IM_MODULE="xim"
 
 export PT7HOME=/home/yoshi/opt/cisco
 export PT6HOME=/home/yoshi/opt/pt63
+
+
+# launch ssh-agent if not running
+if [ -f ~/.ssh/agent.env ] ; then
+    . ~/.ssh/agent.env > /dev/null
+    if ! kill -0 $SSH_AGENT_PID > /dev/null 2>&1; then
+        echo "Stale agent file found. Spawning new agent… "
+        eval `ssh-agent | tee ~/.ssh/agent.env`
+        ssh-add
+    fi
+else
+    echo "Starting ssh-agent"
+    eval `ssh-agent | tee ~/.ssh/agent.env`
+    ssh-add
+fi

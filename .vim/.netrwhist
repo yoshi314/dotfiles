@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/home/yoshi/.offlineimap'
-let g:netrw_dirhist_2='/home/yoshi/.config/beets'
-let g:netrw_dirhist_3='/home/yoshi/.offlineimap'
-let g:netrw_dirhist_4='/data/sources/dotfiles/.oh-my-zsh'
-let g:netrw_dirhist_5='/home/mkowalski/src/dctech-git/ansible/hosts'
-let g:netrw_dirhist_6='/home/mkowalski/ansible-stuff/uprawnienia-katalogow/host_vars'
-let g:netrw_dirhist_7='/home/mkowalski/src/dctech-git/ansible/hosts'

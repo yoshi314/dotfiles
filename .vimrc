@@ -27,24 +27,27 @@ filetype off                  " required
 
 
 " set the runtime path to include Vundle and initialize
-set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
+"set rtp+=~/.vim/bundle/Vundle.vim
+"call vundle#begin()
 
-Plugin 'gmarik/Vundle.vim'
+call plug#begin('~/.vim/bundle')
 
-Plugin 'bling/vim-airline'
-Plugin 'shawncplus/skittles_berry'
+"Plug 'gmarik/Vundle.vim'
 
-Plugin 'haya14busa/incsearch.vim'
-Plugin 'haya14busa/incsearch-fuzzy.vim'
-Plugin 'chase/vim-ansible-yaml'
-Plugin '2072/PHP-Indenting-for-VIm'
-Plugin 'othree/html5.vim'
-Plugin 'blueyed/smarty.vim'
-Plugin 'pangloss/vim-javascript'
+Plug 'bling/vim-airline'
+Plug 'shawncplus/skittles_berry'
 
+Plug 'haya14busa/incsearch.vim'
+Plug 'haya14busa/incsearch-fuzzy.vim'
+Plug 'chase/vim-ansible-yaml'
+Plug '2072/PHP-Indenting-for-VIm'
+Plug 'othree/html5.vim'
+Plug 'blueyed/smarty.vim'
+Plug 'pangloss/vim-javascript'
 
-call vundle#end()            " required
+call plug#end()
+
+"call vundle#end()            " required
 filetype plugin indent on    " required
 " To ignore plugin indent changes, instead use:
 "filetype plugin on

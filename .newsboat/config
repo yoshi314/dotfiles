@@ -1,1 +1,1 @@
-browser "firefox %u"
+browser "firefox-bin %u"

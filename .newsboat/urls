@@ -5,12 +5,10 @@ http://niiconsulting.com/checkmate/feed/
 http://blog.frizk.net/feeds/posts/default
 https://blog.demofox.org/feed/
 https://frasertweedale.github.io/blog-redhat/atom.xml
-http://nopaystation.com/feed/english.xml
 http://www.faz.net/rss/aktuell/
 https://zombero.wordpress.com/feed/
 https://fgiesen.wordpress.com/feed/
 http://poczytajmimako.blogspot.com/feeds/posts/default
-http://mark.koli.ch/atom.xml
 https://www.gamingonlinux.com/article_rss.php
 http://makoczytaramoty.blogspot.com/feeds/posts/default
 http://thecyberrecce.net/feed/
@@ -23,7 +21,6 @@ http://nemesiz4ever.de/feed.php?atom
 http://grafana.org/blog/index.xml
 https://www.libretro.com/index.php/feed/
 http://caps0ff.blogspot.com/feeds/posts/default
-http://feeds.feedburner.com/n0where
 https://simonschreibt.de/feed/
 http://jcjc-dev.com/atom.xml
 http://techgmm.blogspot.com/feeds/posts/default
@@ -41,7 +38,6 @@ http://amigax1000.blogspot.com/feeds/posts/default
 http://www.fortressofdoors.com/rss/
 http://blog.system11.org/?feed=rss2
 https://www.preining.info/blog/feed/
-https://blogs.gentoo.org/blueness/feed/
 https://www.kraxel.org/blog/feed/
 http://itsjack.cc/blog/feed/
 http://www.ketotic.org/feeds/posts/default
@@ -62,7 +58,6 @@ http://www.righto.com/feeds/posts/default
 https://apprenticealf.wordpress.com/feed/
 http://rss.golem.de/rss.php?feed=RSS1.0 "niemiecki"
 http://www.mobilegeeks.de/feed/ "niemiecki"
-http://feeds.schlaflosinmuenchen.com/slowsim.xml "niemiecki"
 http://rss.dw-world.de/rdf/DKfeed_dkmix_de "niemiecki"
 http://www.heise.de/newsticker/heise-atom.xml "niemiecki"
 http://www.ruled.me/feed/ "keto"
@@ -84,15 +79,12 @@ http://kuzyatech.com/feed "Subscriptions"
 http://goingquantum.ca/podcastgen/feed.xml "Subscriptions"
 http://onethingwell.org/rss "books"
 http://www.rantingdragon.com/feed/ "books"
-http://thewertzone.blogspot.com/feeds/posts/default "books"
 http://www.fortheloveofwords.net/feed/ "books"
 http://tenaciousreader.wordpress.com/feed/ "books"
-http://infra-status.gentoo.org/feed.atom "it"
 http://blog.ffwll.ch/feeds/posts/default "it"
 http://nakedsecurity.sophos.com/feed/ "it"
 https://fedoramagazine.org/feed/ "it"
 http://www.kde.org/dotkdeorg.rdf "it"
-http://www.linuxinsider.com/perl/syndication/rssfull.pl "it"
 http://feeds.feedburner.com/Phoronix "it"
 http://ieeexplore.ieee.org/rss/TOC34.XML "it"
 http://rss.slashdot.org/Slashdot/slashdotLinux "it"
@@ -102,7 +94,6 @@ http://ttboj.wordpress.com/feed/ "it"
 http://www.linuxtoday.com/biglt.rss "it"
 http://packetlife.net/blog/feed/ "it"
 http://scottlinux.com/feed/ "it"
-http://www.gentoo.org/rdf/en/gentoo-news.rdf "it"
 http://www.linuxjournal.com/node/feed "it"
 http://osnews.com/files/recent.rdf "it"
 http://morepypy.blogspot.com/feeds/posts/default "it"
@@ -133,8 +124,6 @@ http://www.heise.de/open/news/news-atom.xml "news"
 http://prawo.vagla.pl/node/feed "news"
 http://www.linux-magazine.com/rss/feed/lmi_news "news"
 http://gdemu.wordpress.com/feed/ "emu"
-http://mamedev.org/?feed=rss2 "emu"
-http://mamedev.emulab.it/haze/feed/ "emu"
 http://www.commitstrip.com/en/feed/ "fun"
 http://thecodelesscode.com/rss "fun"
 http://feeds.feedburner.com/ClientsFromHell "fun"
@@ -144,15 +133,9 @@ http://faildesk.net/feed/ "fun"
 http://chatolandia.pl/feed/ "fun"
 https://www.justwatch.com/blog/index.xml "blogs"
 http://yuguangzhang.com/blog/feed/atom/ "blogs"
-https://mbrownnyc.wordpress.com/feed/ "blogs"
 http://networkinferno.net/feed "blogs"
-http://xmodulo.com/feed "blogs"
-http://feeds.feedburner.com/unclutterer "blogs"
 http://feeds.feedburner.com/ScottHanselman "blogs"
-http://planet.enlightenment.org/atom.xml "blogs"
-http://blogs.msdn.com/b/oldnewthing/rss.aspx "blogs"
 http://feeds.feedburner.com/zenhabits "blogs"
-http://bkhome.org/blog2/?do=RSS "blogs"
 http://blogs.coreboot.org/feed/ "blogs"
 http://blog.flameeyes.eu/articles.atom "blogs"
 http://karelzak.blogspot.com/feeds/posts/default "blogs"
@@ -171,7 +154,6 @@ http://feeds.feedburner.com/codinghorror/ "blogs"
 http://feeds.falkvinge.net/Falkvinge-on-Infopolicy "blogs"
 http://igurublog.wordpress.com/feed/ "blogs"
 http://blog.sanctum.geek.nz/feed/ "blogs"
-http://codemonkey.org.uk/feed/ "blogs"
 http://fabiensanglard.net/rss.xml "blogs"
 http://feeds.feedburner.com/IWillTeachYouToBeRich "blogs"
 https://nickclifton.livejournal.com/data/rss "blogs"
@@ -203,7 +185,6 @@ http://www.kev009.com/wp/feed/ "blogs"
 http://planet.archlinux.org/rss20.xml "blogs"
 http://blog.rss.naver.com/tdstudio.xml "blogs"
 http://chetkowski.blog.polityka.pl/feed/ "blogs"
-http://www.dadhacker.com/blog/?feed=rss2 "blogs"
 http://www.fosspatents.com/feeds/posts/default "blogs"
 http://j00ru.vexillium.org/?feed=rss2 "blogs"
 http://linuxlock.blogspot.com/feeds/posts/default "blogs"
@@ -211,13 +192,11 @@ http://virtuallyfun.superglobalmegacorp.com/?feed=rss2 "hacking"
 http://lifehacker.com/rss "hacking"
 http://w00tsec.blogspot.com/feeds/posts/default "hacking"
 http://www.windytan.com/feeds/posts/default "hacking"
-http://blog.metaclassofnil.com/?feed=rss2 "hacking"
 http://ppaalanen.blogspot.com/feeds/posts/default "hacking"
 http://phoboslab.org/log/feed "hacking"
 http://www.schneier.com/blog/index.rdf "hacking"
 https://nwert.wordpress.com/feed/ "hacking"
 http://www.hackaday.com/rss.xml "hacking"
-http://filthypants.blogspot.com/feeds/posts/default "hacking"
 http://www.devttys0.com/feed/ "hacking"
 http://neko68k.blogspot.com/feeds/posts/default "hacking"
 http://feeds.feedburner.com/YifanLu "hacking"
@@ -242,3 +221,4 @@ http://headinside.blogspot.com/feeds/posts/default "learning"
 http://cchalpha.blogspot.com/feeds/posts/default "kernel"
 https://anzwix.com/rss.php "news"
 https://www.frumble.de/blog/feed/
+https://mastransky.wordpress.com/feed.xml "firefox" "wayland"

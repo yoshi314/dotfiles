@@ -25,6 +25,9 @@ set showmatch " match parentheses
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
+filetype plugin on
+set omnifunc=syntaxcomplete#Complete
+
 
 " set the runtime path to include Vundle and initialize
 "set rtp+=~/.vim/bundle/Vundle.vim
@@ -44,6 +47,7 @@ Plug '2072/PHP-Indenting-for-VIm'
 Plug 'othree/html5.vim'
 Plug 'blueyed/smarty.vim'
 Plug 'pangloss/vim-javascript'
+Plug 'mattn/emmet-vim'
 
 call plug#end()
 

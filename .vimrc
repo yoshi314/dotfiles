@@ -25,10 +25,6 @@ set showmatch " match parentheses
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
-filetype plugin on
-set omnifunc=syntaxcomplete#Complete
-
-
 " set the runtime path to include Vundle and initialize
 "set rtp+=~/.vim/bundle/Vundle.vim
 "call vundle#begin()
@@ -106,3 +102,5 @@ inoremap <A-l> <C-o>l
 vnoremap <C-c> "*y :let @+=@*<CR>
 "paste from primary selection
 "map <C-v> "yP
+
+let g:user_emmet_leader_key='<C-A>'

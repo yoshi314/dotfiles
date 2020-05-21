@@ -1,1 +1,1 @@
-browser "firefox-bin %u"
+browser "~/.newsboat/browser.sh %u"

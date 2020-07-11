@@ -76,6 +76,9 @@ export PATH=$PATH:$PS2DEV/iop/bin
 export PATH=$PATH:$PS2DEV/dvp/bin
 export PS2SDK=$PS2DEV/ps2sdk
 export PATH=$PATH:$PS2SDK/bin
+
+export PATH=~/.local/bin:$PATH
+
 export GSKIT=$PS2DEV/gsKit
 
 export VITASDK=/home/yoshi/opt/vitasdk

@@ -1,1 +1,4 @@
 browser "~/.newsboat/browser.sh %u"
+reload-threads 10
+show-read-feeds  no
+show-read-articles no

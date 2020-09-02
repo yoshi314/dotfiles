@@ -15,7 +15,7 @@ http://www.benryves.com/rss
 https://rpcs3.net/blog/feed/
 http://umbcast.com/podcast/The_Upper_Memory_Block.xml
 https://feeds.feedburner.com/niebezpiecznik/
-http://nemesiz4ever.de/feed.php?atom
+#http://nemesiz4ever.de/feed.php?atom
 http://grafana.org/blog/index.xml
 https://www.libretro.com/index.php/feed/
 http://caps0ff.blogspot.com/feeds/posts/default
@@ -23,7 +23,7 @@ https://simonschreibt.de/feed/
 http://jcjc-dev.com/atom.xml
 http://techgmm.blogspot.com/feeds/posts/default
 http://libregraphicsworld.org/feeds/rss
-http://oldschoolgameblog.com/feed/
+#http://oldschoolgameblog.com/feed/
 http://www.ocsmag.com/feed/
 http://64jim64.blogspot.com/feeds/posts/default
 https://gnu.wildebeest.org/blog/mjw/feed/
@@ -211,7 +211,6 @@ https://deutschlernerblog.de/feed/ "niemiecki"
 https://feeds.feedburner.com/sekurak "security"
 http://80erman.podcaster.de/younginthe80s.rss "niemiecki"
 https://www.downtowndougbrown.com/feed/ "tech"
-https://distrowatch.com/news/torrents.xml "torrent"
 http://arcadehacker.blogspot.com/feeds/posts/default "hacking"
 https://raw.githubusercontent.com/ungoogled-software/ungoogled-chromium-binaries/master/feed.xml "software"
 http://tbl.nu/feed.xml "tech"

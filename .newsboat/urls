@@ -39,7 +39,7 @@ https://www.preining.info/blog/feed/
 https://www.kraxel.org/blog/feed/
 http://itsjack.cc/blog/feed/
 http://www.ketotic.org/feeds/posts/default
-http://feedproxy.google.com/typepad/alleyinsider/silicon_alley_insider
+#http://feedproxy.google.com/typepad/alleyinsider/silicon_alley_insider
 http://www.informationisbeautiful.net/feed/
 http://feeds.feedburner.com/techreport/all
 https://www.quaddicted.com/forum/extern.php?action=feed&fid=5&type=atom
@@ -93,7 +93,7 @@ http://www.linuxtoday.com/biglt.rss "it"
 http://packetlife.net/blog/feed/ "it"
 http://scottlinux.com/feed/ "it"
 http://www.linuxjournal.com/node/feed "it"
-http://osnews.com/files/recent.rdf "it"
+https://www.osnews.com/feed/ "it"
 http://morepypy.blogspot.com/feeds/posts/default "it"
 http://feeds.feedburner.com/distrowatch/BFai "it"
 http://drj11.wordpress.com/feed/ "it"
@@ -225,3 +225,4 @@ https://lukesmith.xyz/rss.xml "blogs"
 https://glandium.org/blog/?feed=rss2 "tech"
 https://rss.sueddeutsche.de/rss/Digital "german" "tech"
 https://boxofcables.dev/rss/
+https://feeds.feedburner.com/artofmanlinesspodcast "podcast"

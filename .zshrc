@@ -87,7 +87,7 @@ export PATH=$VITASDK/bin:$PATH
 
 export XMODIFIERS="@im=ibus"
 export GTK_IM_MODULE="ibus"
-export QT_IM_MODULE="xim"
+export QT_IM_MODULE="ibus"
 
 
 export PT7HOME=/home/yoshi/opt/cisco
@@ -109,3 +109,4 @@ else
 fi
 
 alias t="todo.sh"
+alias yta="youtube-dl -f bestaudio -x --audio-format mp3 --audio-quality 5"

@@ -34,6 +34,7 @@ bindsym $mod+Shift+q kill
 #bindsym $mod+r exec dmenu_run -i -l 5 
 bindsym $mod+r exec rofi -show run -theme android_notification
 bindsym $mod+F12 exec firefox
+bindsym $mod+F9 exec vivaldi-stable
 bindsym $mod+F10 exec pavucontrol
 bindsym $mod+n	exec  nitrogen 
 
@@ -190,9 +191,9 @@ bindsym $mod+i mode "resize"
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 bar {
-	status_command py3status -c ~/i3/i3status.conf
+	status_command py3status -c ~/.i3/i3status.conf
 	workspace_buttons yes
-	tray_output HDMI-0
+	tray_output HDMI-1
 }
 
 assign [class="Firefox"] 9
@@ -230,8 +231,11 @@ for_window [class="PCSX2"] floating enable
 for_window [class="quimup"] floating enable
 for_window [class="Virt-manager"] floating enable
 for_window [class="VirtualBox"] floating enable
-for_window [class="Villain3DS"] floating enable
 for_window [class="PPSSPPSDL"] floating enable
+for_window [title="XCOM 2 Options"] floating enable
+for_window [title="Ghidra"] floating enable
+for_window [title="ghidra"] floating enable
+for_window [class="quakespasm"] floating enable
 
 for_window [class="Firefox"] border none
 for_window [class="firefox"] border none
@@ -248,6 +252,8 @@ for_window [class="qemu-system-x86_64"] border none
 for_window [class="Gajim"] border none
 for_window [class="quimup"] border none
 for_window [class="Wine"] border none
+for_window [class="Skype"] border none
+for_window [class="skype"] border none
 
 
 for_window [instance="dropdownconsole"] floating enable
@@ -272,14 +278,16 @@ bindsym Mod4+o focus floating; mode "moveit"
 #exec xset s noblank
 
 #exec xrandr --output DVI-0 --primary
-exec unclutter 
-exec dex -a -e i3
-exec setxkbmap -option compose:menu
-exec xcompmgr
+exec --no-startup-id unclutter 
+exec --no-startup-id dex -a -e i3
+exec --no-startup-id setxkbmap -option compose:menu
+exec --no-startup-id feh --bg-scale /home/yoshi/lastwallpaper
+exec --no-startup-id xcompmgr
 
-exec st -n dropdownconsole -e tmux
-exec udiskie -s
+#exec st -n dropdownconsole -e tmux
+exec --no-startup-id udiskie -s
 
 # enable headphones, since they get disabled all the time
 exec pactl set-card-profile alsa_card.pci-0000_08_00.3 output:analog-stereo
 exec pactl set-sink-port alsa_output.pci-0000_08_00.3.analog-stereo analog-output-headphones
+

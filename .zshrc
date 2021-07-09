@@ -11,7 +11,7 @@ export ZSH=${HOME}/.oh-my-zsh
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME="robbyrussell"
+ZSH_THEME="essembeh"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -110,3 +110,6 @@ fi
 
 alias t="todo.sh"
 alias yta="youtube-dl -f bestaudio -x --audio-format mp3 --audio-quality 5"
+
+export QT_QPA_PLATFORMTHEME=qt5ct
+export QT_STYLE_OVERRIDE=gtk

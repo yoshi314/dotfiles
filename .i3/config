@@ -281,7 +281,8 @@ bindsym Mod4+o focus floating; mode "moveit"
 exec --no-startup-id unclutter 
 exec --no-startup-id dex -a -e i3
 exec --no-startup-id setxkbmap -option compose:menu
-exec --no-startup-id feh --bg-scale /home/yoshi/lastwallpaper
+#exec --no-startup-id feh --bg-scale /home/yoshi/lastwallpaper
+exec --no-startup-id nitrogen --restore
 exec --no-startup-id xcompmgr
 
 #exec st -n dropdownconsole -e tmux

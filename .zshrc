@@ -109,7 +109,7 @@ else
 fi
 
 alias t="todo.sh"
-alias yta="youtube-dl -f bestaudio -x --audio-format mp3 --audio-quality 5"
+alias yta="youtube-dl -f bestaudio -x --audio-format mp3 --audio-quality 5 --add-metadata"
 
 export QT_QPA_PLATFORMTHEME=qt5ct
 export QT_STYLE_OVERRIDE=gtk

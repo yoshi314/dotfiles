@@ -1,3 +1,8 @@
 #!/bin/sh
 
-stow . -v -t ~ --ignore=submodule-update --ignore=.gitmodules --ignore=.git --ignore=install-symlinks --ignore=README.md --ignore=submodule-update
+stow . -v -t ~ \
+    --ignore=submodule-update \
+    --ignore=.gitmodules \
+    --ignore=.git \
+    --ignore=install-symlinks \
+    --ignore=README.md

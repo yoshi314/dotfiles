@@ -1,0 +1,12 @@
+[core]
+modules = weather,shell,disk,load,nic,cpu,pasink,redshift,time,date
+theme = onedark-powerline
+
+[module-parameters]
+disk.path = /
+disk.format = {left}
+pasink.right-click = "pavucontrol"
+date.right-click = "zenity --calendar"
+shell.command = ~/.config/i3/fileage.sh
+shell.interval = 10
+weather.showminmax = True

@@ -1,5 +1,5 @@
 [core]
-modules = weather,shell,disk,load,nic,cpu,pasink,redshift,time,date
+modules = mpd,weather,disk,load,nic,cpu,redshift,time,date,pasink
 theme = onedark-powerline
 
 [module-parameters]

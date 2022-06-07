@@ -289,7 +289,7 @@ exec --no-startup-id nitrogen --restore
 exec --no-startup-id xcompmgr
 
 #exec st -n dropdownconsole -e tmux
-exec --no-startup-id udiskie -s
+exec --no-startup-id udiskie -s -A
 
 # enable headphones, since they get disabled all the time
 exec pactl set-card-profile alsa_card.pci-0000_08_00.3 output:analog-stereo

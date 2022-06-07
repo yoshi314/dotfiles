@@ -110,6 +110,7 @@ fi
 
 alias t="todo.sh"
 alias yta="youtube-dl -f bestaudio -x --audio-format mp3 --audio-quality 5 --add-metadata"
+alias x1="cd /run/media/yoshi/X1"
 
 export QT_QPA_PLATFORMTHEME=qt5ct
 export QT_STYLE_OVERRIDE=gtk

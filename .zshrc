@@ -36,7 +36,7 @@ ZSH_THEME="essembeh"
 # ENABLE_CORRECTION="true"
 
 # Uncomment the following line to display red dots whilst waiting for completion.
-# COMPLETION_WAITING_DOTS="true"
+COMPLETION_WAITING_DOTS="true"
 
 # Uncomment the following line if you want to disable marking untracked files
 # under VCS as dirty. This makes repository status check for large repositories
@@ -62,37 +62,14 @@ plugins=(git thefuck vi-mode)
 export PATH=/home/yoshi/opt/bin:$PATH
 
 source $ZSH/oh-my-zsh.sh
-export PS3DEV=/home/yoshi/opt/ps3dev
-export PSL1GHT=$PS3DEV
-export PATH=$PATH:$PS3DEV/bin
-export PATH=$PATH:$PS3DEV/ppu/bin
-export PATH=$PATH:$PS3DEV/spu/bin
-
-
-export PS2DEV=/home/yoshi/opt/ps2dev
-export PATH=$PATH:$PS2DEV/bin
-export PATH=$PATH:$PS2DEV/ee/bin
-export PATH=$PATH:$PS2DEV/iop/bin
-export PATH=$PATH:$PS2DEV/dvp/bin
-export PS2SDK=$PS2DEV/ps2sdk
-export PATH=$PATH:$PS2SDK/bin
 
 export PATH=~/.local/bin:$PATH
-
-export GSKIT=$PS2DEV/gsKit
-
-export VITASDK=/home/yoshi/opt/vitasdk
-export PATH=$VITASDK/bin:$PATH
-
 
 export XMODIFIERS="@im=ibus"
 export GTK_IM_MODULE="ibus"
 export QT_IM_MODULE="ibus"
 
-
-export PT7HOME=/home/yoshi/opt/cisco
-export PT6HOME=/home/yoshi/opt/pt63
-
+export EDITOR=vim
 
 # launch ssh-agent if not running
 if [ -f ~/.ssh/agent.env ] ; then
@@ -111,6 +88,7 @@ fi
 alias t="todo.sh"
 alias yta="youtube-dl -f bestaudio -x --audio-format mp3 --audio-quality 5 --add-metadata"
 alias x1="cd /run/media/yoshi/X1"
+alias ytsubs="youtube-dl --all-subs --skip-download"
 
 export QT_QPA_PLATFORMTHEME=qt5ct
 export QT_STYLE_OVERRIDE=gtk

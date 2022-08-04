@@ -1,233 +1,206 @@
-https://gitweb.gentoo.org/repo/gentoo.git/atom/ "scm"
-http://deutschglobal.blogspot.com/feeds/posts/default
-https://feeds.feedburner.com/pudding/feed
-https://steamdb.info/api/BlogRSS/
-http://niiconsulting.com/checkmate/feed/
-http://blog.frizk.net/feeds/posts/default
-https://blog.demofox.org/feed/
-https://frasertweedale.github.io/blog-redhat/atom.xml
-http://www.faz.net/rss/aktuell/
-https://zombero.wordpress.com/feed/
-https://fgiesen.wordpress.com/feed/
-http://thecyberrecce.net/feed/
-http://www.benryves.com/rss
-https://rpcs3.net/blog/feed/
-http://umbcast.com/podcast/The_Upper_Memory_Block.xml
-https://feeds.feedburner.com/niebezpiecznik/
-#http://nemesiz4ever.de/feed.php?atom
-http://grafana.org/blog/index.xml
-https://www.libretro.com/index.php/feed/
-http://caps0ff.blogspot.com/feeds/posts/default
-https://simonschreibt.de/feed/
-http://jcjc-dev.com/atom.xml
-http://techgmm.blogspot.com/feeds/posts/default
-http://libregraphicsworld.org/feeds/rss
-#http://oldschoolgameblog.com/feed/
-http://www.ocsmag.com/feed/
-http://64jim64.blogspot.com/feeds/posts/default
-https://gnu.wildebeest.org/blog/mjw/feed/
-http://cchalpha.blogspot.com/feeds/posts/default
-http://rss.sciam.com/sciam/science-talk
-http://rss.dw.de/xml/DKpodcast_radiod1_en
-http://www.bassblog.pro/feeds/posts/default
-http://fs-uae.net/feed
-http://amigax1000.blogspot.com/feeds/posts/default
-http://www.fortressofdoors.com/rss/
-http://blog.system11.org/?feed=rss2
-https://www.preining.info/blog/feed/
-https://www.kraxel.org/blog/feed/
-http://itsjack.cc/blog/feed/
-http://www.ketotic.org/feeds/posts/default
-#http://feedproxy.google.com/typepad/alleyinsider/silicon_alley_insider
-http://www.informationisbeautiful.net/feed/
-http://feeds.feedburner.com/techreport/all
-https://www.quaddicted.com/forum/extern.php?action=feed&fid=5&type=atom
-http://hubicka.blogspot.com/feeds/posts/default
-https://saschpe.wordpress.com/feed/
-http://geidav.wordpress.com/feed/
-http://trixter.oldskool.org/feed/
-http://l3net.wordpress.com/feed/
-http://blog.barisione.org/feed/
-http://gaasedelen.blogspot.com/feeds/posts/default
-http://blog.uncooperative.org/atom.xml
-http://triggeralert.blogspot.com/feeds/posts/default
-http://www.righto.com/feeds/posts/default
-https://apprenticealf.wordpress.com/feed/
-http://rss.golem.de/rss.php?feed=RSS1.0 "niemiecki"
-http://www.mobilegeeks.de/feed/ "niemiecki"
-http://rss.dw-world.de/rdf/DKfeed_dkmix_de "niemiecki"
-http://www.heise.de/newsticker/heise-atom.xml "niemiecki"
-http://www.ruled.me/feed/ "keto"
-http://feeds.feedburner.com/SugarFreeLowCarbRecipes?format=xml "keto"
-http://www.flexibleketogenic.com/feeds/posts/default "keto"
-http://mariamindbodyhealth.com/feed/ "keto"
-http://high-fat-nutrition.blogspot.com/feeds/posts/default "keto"
 http://100ketodays.tumblr.com/rss "keto"
-http://feeds.feedburner.com/smittenkitchen "keto"
-http://healthydietsandscience.blogspot.com/feeds/posts/default "keto"
-http://ketopia.com/feed/ "keto"
-http://corte.si/rss.xml "Subscriptions"
-http://guru.multimedia.cx/feed/ "Subscriptions"
-http://lambda-the-ultimate.org/rss.xml "Subscriptions"
-http://rss.majsterkowo.pl/posty/ "Subscriptions"
-http://www.sciencemag.org/rss/current.xml "Subscriptions"
-http://slax.org/rss.php "Subscriptions"
-http://kuzyatech.com/feed "Subscriptions"
-http://goingquantum.ca/podcastgen/feed.xml "Subscriptions"
-http://onethingwell.org/rss "books"
-http://www.rantingdragon.com/feed/ "books"
-http://www.fortheloveofwords.net/feed/ "books"
-http://tenaciousreader.wordpress.com/feed/ "books"
-http://blog.ffwll.ch/feeds/posts/default "it"
-http://nakedsecurity.sophos.com/feed/ "it"
-https://fedoramagazine.org/feed/ "it"
-http://www.kde.org/dotkdeorg.rdf "it"
-http://feeds.feedburner.com/Phoronix "it"
-http://ieeexplore.ieee.org/rss/TOC34.XML "it"
-http://rss.slashdot.org/Slashdot/slashdotLinux "it"
-http://www.howtoforge.com/node/feed "it"
-http://www.linuxbsdos.com/feed/ "it"
-http://ttboj.wordpress.com/feed/ "it"
-http://www.linuxtoday.com/biglt.rss "it"
-http://packetlife.net/blog/feed/ "it"
-http://scottlinux.com/feed/ "it"
-http://www.linuxjournal.com/node/feed "it"
-https://www.osnews.com/feed/ "it"
-http://feeds.feedburner.com/distrowatch/BFai "it"
-http://drj11.wordpress.com/feed/ "it"
-http://lifehacker.com/linux/index.xml "it"
-http://feeds.cyberciti.biz/Nixcraft-LinuxFreebsdSolarisTipsTricks "it"
-http://planet.freedesktop.org/rss20.xml "it"
-http://planet.webkit.org/atom.xml "it"
-http://kernel.org/kdist/rss.xml "it"
-http://feeds.feedburner.com/nfsec?format=xml "it"
-http://mina86.com/atom/short/html/miniblog "it"
-http://planet.videolan.org/rss20.xml "it"
-http://www.sysadmindayph.com/blog/feed/ "it"
-http://codecs.multimedia.cx/?feed=atom "it"
-http://keithp.com/blogs/index.rss "it"
-http://lxer.com/module/newswire/headlines.rss "it"
-http://gstreamer.freedesktop.org/planet/rss20.xml "it"
-http://rss.7thguard.net/7thguard.xml "it"
-http://vimcasts.org/feeds/ogg "it"
-http://blogs.kde.org/blog/feed "it"
-http://lwn.net/headlines/newrss "it"
-http://planet.gentoo.org/rss20.xml "it"
-http://feeds.feedburner.com/TheGeekStuff "it"
-http://news.ycombinator.com/rss "news"
-http://distrowatch.com/news/dwd.xml "news"
-http://www.heise.de/open/news/news-atom.xml "news"
-http://prawo.vagla.pl/node/feed "news"
-http://www.linux-magazine.com/rss/feed/lmi_news "news"
-http://gdemu.wordpress.com/feed/ "emu"
-http://www.commitstrip.com/en/feed/ "fun"
-http://thecodelesscode.com/rss "fun"
-http://feeds.feedburner.com/ClientsFromHell "fun"
-http://syndication.thedailywtf.com/TheDailyWtf "fun"
-http://feeds.feedburner.com/Scoopertino "fun"
-http://faildesk.net/feed/ "fun"
-http://chatolandia.pl/feed/ "fun"
-https://www.justwatch.com/blog/index.xml "blogs"
-http://yuguangzhang.com/blog/feed/atom/ "blogs"
-http://networkinferno.net/feed "blogs"
-http://feeds.feedburner.com/ScottHanselman "blogs"
-http://feeds.feedburner.com/zenhabits "blogs"
-http://blogs.coreboot.org/feed/ "blogs"
-http://blog.flameeyes.eu/articles.atom "blogs"
-http://karelzak.blogspot.com/feeds/posts/default "blogs"
-http://planet.fedoraproject.org/atom.xml "blogs"
-http://inconsolation.wordpress.com/feed/ "blogs"
-http://pl.atyp.us/wordpress/index.php/feed/ "blogs"
-http://davidmburke.com/feed/ "blogs"
-http://zx81.zx81.free.fr/serendipity/index.php?/feeds/index.rss2 "blogs"
-http://esr.ibiblio.org/?feed=rss2 "blogs"
-http://smspillaz.wordpress.com/feed/ "blogs"
-http://judepereira.com/blog/feed/ "blogs"
-https://openmw.org/en/feed/ "blogs"
-http://herbsutter.com/feed/ "blogs"
-http://feeds.feedburner.com/Zer0Security "blogs"
-http://feeds.feedburner.com/codinghorror/ "blogs"
-http://feeds.falkvinge.net/Falkvinge-on-Infopolicy "blogs"
-http://igurublog.wordpress.com/feed/ "blogs"
-http://blog.sanctum.geek.nz/feed/ "blogs"
-http://fabiensanglard.net/rss.xml "blogs"
-http://feeds.feedburner.com/IWillTeachYouToBeRich "blogs"
-https://nickclifton.livejournal.com/data/rss "blogs"
-http://feeds.feedburner.com/typepad/sethsmainblog "blogs"
-http://youarenotsosmart.com/feed/ "blogs"
-http://codesynthesis.com/~boris/blog/feed "blogs"
-http://www.kernellabs.com/blog/?feed=rss2 "blogs"
-http://blog.mozilla.org/nnethercote/feed/ "blogs"
-https://rwmj.wordpress.com/feed/ "blogs"
-http://ck-hack.blogspot.com/feeds/posts/default "blogs"
-http://www.bunniestudios.com/blog/?feed=rss2 "blogs"
-http://feeds.feedburner.com/diallrss "blogs"
-http://feeds.feedburner.com/catonmat "blogs"
-http://feeds.feedburner.com/GitBlame "blogs"
-http://feeds.feedburner.com/FastDataCompression "blogs"
-http://feeds.feedburner.com/Who-t "blogs"
-http://multimedia.cx/eggs/feed/ "blogs"
-http://doom64ex.wordpress.com/feed/ "blogs"
-http://mjg59.dreamwidth.org/data/rss "blogs"
-http://feeds.feedburner.com/Raymiiorg "blogs"
-http://feeds.feedburner.com/bashscripting "blogs"
-http://www.dietdoctor.com/feed "blogs"
-http://feeds.feedburner.com/getrichslowly "blogs"
+http://64jim64.blogspot.com/feeds/posts/default
+http://amigax1000.blogspot.com/feeds/posts/default
+http://arcadehacker.blogspot.com/feeds/posts/default "hacking"
 http://bitsup.blogspot.com/feeds/posts/default "blogs"
-http://freegamer.blogspot.de/atom.xml "blogs"
-http://feeds.feedburner.com/LinuxTippsMore "blogs"
-http://fgiesen.wordpress.com/feed/ "blogs"
-http://www.kev009.com/wp/feed/ "blogs"
-http://planet.archlinux.org/rss20.xml "blogs"
-http://blog.rss.naver.com/tdstudio.xml "blogs"
+http://blog.barisione.org/feed/
+http://blog.ffwll.ch/feeds/posts/default "it"
+http://blog.flameeyes.eu/articles.atom "blogs"
+http://blog.frizk.net/feeds/posts/default
+http://blog.mozilla.org/nnethercote/feed/ "blogs"
+http://blog.sanctum.geek.nz/feed/ "blogs"
+http://blogs.coreboot.org/feed/ "blogs"
+http://blogs.kde.org/blog/feed "it"
+http://blog.system11.org/?feed=rss2
+http://blog.uncooperative.org/atom.xml
+http://caps0ff.blogspot.com/feeds/posts/default
+http://cchalpha.blogspot.com/feeds/posts/default
+http://cchalpha.blogspot.com/feeds/posts/default "kernel"
+http://cgit.freedesktop.org/mesa/mesa/atom/?h=master "scm"
+http://cgit.freedesktop.org/xorg/driver/xf86-video-ati/atom/?h=master "scm"
 http://chetkowski.blog.polityka.pl/feed/ "blogs"
-http://www.fosspatents.com/feeds/posts/default "blogs"
-http://j00ru.vexillium.org/?feed=rss2 "blogs"
-http://linuxlock.blogspot.com/feeds/posts/default "blogs"
-http://virtuallyfun.superglobalmegacorp.com/?feed=rss2 "hacking"
-http://lifehacker.com/rss "hacking"
-http://w00tsec.blogspot.com/feeds/posts/default "hacking"
-http://www.windytan.com/feeds/posts/default "hacking"
-http://ppaalanen.blogspot.com/feeds/posts/default "hacking"
-http://phoboslab.org/log/feed "hacking"
-http://www.schneier.com/blog/index.rdf "hacking"
-https://nwert.wordpress.com/feed/ "hacking"
-http://www.hackaday.com/rss.xml "hacking"
-http://www.devttys0.com/feed/ "hacking"
-http://neko68k.blogspot.com/feeds/posts/default "hacking"
+http://ck-hack.blogspot.com/feeds/posts/default "blogs"
+http://codecs.multimedia.cx/?feed=atom "it"
+http://codesynthesis.com/~boris/blog/feed "blogs"
+http://corte.si/rss.xml "Subscriptions"
+http://davidmburke.com/feed/ "blogs"
+http://deutschglobal.blogspot.com/feeds/posts/default
+http://developer.intra2net.com/git/?p=libftdi;a=rss "scm"
+http://distrowatch.com/news/dwd.xml "news"
+http://doom64ex.wordpress.com/feed/ "blogs"
+http://drj11.wordpress.com/feed/ "it"
+http://fabiensanglard.net/rss.xml "blogs"
+http://feeds.cyberciti.biz/Nixcraft-LinuxFreebsdSolarisTipsTricks "it"
+http://feeds.falkvinge.net/Falkvinge-on-Infopolicy "blogs"
+http://feeds.feedburner.com/bashscripting "blogs"
+http://feeds.feedburner.com/ClientsFromHell "fun"
+http://feeds.feedburner.com/codinghorror/ "blogs"
+http://feeds.feedburner.com/diallrss "blogs"
+http://feeds.feedburner.com/distrowatch/BFai "it"
+http://feeds.feedburner.com/FastDataCompression "blogs"
+http://feeds.feedburner.com/getrichslowly "blogs"
+http://feeds.feedburner.com/GitBlame "blogs"
+http://feeds.feedburner.com/IWillTeachYouToBeRich "blogs"
+http://feeds.feedburner.com/LinuxTippsMore "blogs"
+http://feeds.feedburner.com/nfsec?format=xml "it"
+http://feeds.feedburner.com/Phoronix "it"
+http://feeds.feedburner.com/Raymiiorg "blogs"
+http://feeds.feedburner.com/Scoopertino "fun"
+http://feeds.feedburner.com/ScottHanselman "blogs"
+http://feeds.feedburner.com/smittenkitchen "keto"
+http://feeds.feedburner.com/SugarFreeLowCarbRecipes?format=xml "keto"
+http://feeds.feedburner.com/techreport/all
+http://feeds.feedburner.com/TheGeekStuff "it"
+http://feeds.feedburner.com/typepad/sethsmainblog "blogs"
+http://feeds.feedburner.com/Who-t "blogs"
 http://feeds.feedburner.com/YifanLu "hacking"
+http://feeds.feedburner.com/zenhabits "blogs"
+http://feeds.feedburner.com/Zer0Security "blogs"
+http://feeds.soundcloud.com/users/soundcloud:users:156044172/sounds.rss "podcast" "clarey"
+http://fgiesen.wordpress.com/feed/ "blogs"
 http://forum.xentax.com/blog/?feed=atom "hacking"
-http://wololo.net/hbl/feed/ "hacking"
+http://fs-uae.net/feed
+http://gaasedelen.blogspot.com/feeds/posts/default
+http://gdemu.wordpress.com/feed/ "emu"
+http://geidav.wordpress.com/feed/
+http://grafana.org/blog/index.xml
+http://guru.multimedia.cx/feed/ "Subscriptions"
+http://headinside.blogspot.com/feeds/posts/default "learning"
+http://healthydietsandscience.blogspot.com/feeds/posts/default "keto"
+http://herbsutter.com/feed/ "blogs"
+http://high-fat-nutrition.blogspot.com/feeds/posts/default "keto"
+http://hubicka.blogspot.com/feeds/posts/default
+http://igurublog.wordpress.com/feed/ "blogs"
+http://inconsolation.wordpress.com/feed/ "blogs"
+http://itsjack.cc/blog/feed/
+http://j00ru.vexillium.org/?feed=rss2 "blogs"
+http://jcjc-dev.com/atom.xml
+http://judepereira.com/blog/feed/ "blogs"
+http://karelzak.blogspot.com/feeds/posts/default "blogs"
+http://keithp.com/blogs/index.rss "it"
+http://kernel.org/kdist/rss.xml "it"
+http://ketopia.com/feed/ "keto"
+http://kuzyatech.com/feed "Subscriptions"
+http://l3net.wordpress.com/feed/
+http://lambda-the-ultimate.org/rss.xml "Subscriptions"
+http://libregraphicsworld.org/feeds/rss
+http://lifehacker.com/linux/index.xml "it"
+http://lifehacker.com/rss "hacking"
+http://linuxlock.blogspot.com/feeds/posts/default "blogs"
+http://lwn.net/headlines/newrss "it"
+http://lxer.com/module/newswire/headlines.rss "it"
+http://mariamindbodyhealth.com/feed/ "keto"
+http://mina86.com/atom/short/html/miniblog "it"
+http://mjg59.dreamwidth.org/data/rss "blogs"
+http://multimedia.cx/eggs/feed/ "blogs"
+http://nakedsecurity.sophos.com/feed/ "it"
+http://neko68k.blogspot.com/feeds/posts/default "hacking"
+http://networkinferno.net/feed "blogs"
+http://news.ycombinator.com/rss "news"
+http://niiconsulting.com/checkmate/feed/
+http://onethingwell.org/rss "books"
+http://packetlife.net/blog/feed/ "it"
+http://phoboslab.org/log/feed "hacking"
+http://planet.archlinux.org/rss20.xml "blogs"
+http://planet.fedoraproject.org/atom.xml "blogs"
+http://planet.freedesktop.org/rss20.xml "it"
+http://planet.gentoo.org/rss20.xml "it"
+http://planet.videolan.org/rss20.xml "it"
+http://planet.webkit.org/atom.xml "it"
+http://pl.atyp.us/wordpress/index.php/feed/ "blogs"
+http://ppaalanen.blogspot.com/feeds/posts/default "hacking"
+http://repo.or.cz/w/AROS.git/rss "scm"
+http://rss.7thguard.net/7thguard.xml "it"
+http://rss.dw.de/xml/DKpodcast_radiod1_en
+http://rss.slashdot.org/Slashdot/slashdotLinux "it"
+https://apprenticealf.wordpress.com/feed/
+https://arcan-fe.com/feed/ "wayland"
+https://archlinux.org/feeds/packages/all/core/ "archlinux" "packages"
+https://blog.demofox.org/feed/
+https://boxofcables.dev/rss/
+http://scottlinux.com/feed/ "it"
+https://fedoramagazine.org/feed/ "it"
+https://feeds.feedburner.com/artofmanlinesspodcast "podcast"
+https://feeds.feedburner.com/niebezpiecznik/
+https://feeds.feedburner.com/pudding/feed
+https://feeds.feedburner.com/sekurak "security"
+https://feeds.feedburner.com/StudyHacks "selfimprovement"
+https://feeds.feedburner.com/TheArtOfManliness "selfimprovement"
+https://fgiesen.wordpress.com/feed/
+https://frasertweedale.github.io/blog-redhat/atom.xml
+https://github.com/hrydgard/ppsspp/commits/master.atom "scm"
 https://github.com/PCSX2/pcsx2/commits/master.atom "scm"
 https://github.com/reicast/reicast-emulator/commits/master.atom "scm"
-http://cgit.freedesktop.org/xorg/driver/xf86-video-ati/atom/?h=master "scm"
-http://repo.or.cz/w/AROS.git/rss "scm"
-https://github.com/hrydgard/ppsspp/commits/master.atom "scm"
-http://cgit.freedesktop.org/mesa/mesa/atom/?h=master "scm"
-http://developer.intra2net.com/git/?p=libftdi;a=rss "scm"
-https://deutschlernerblog.de/feed/ "niemiecki"
-https://feeds.feedburner.com/sekurak "security"
-http://80erman.podcaster.de/younginthe80s.rss "niemiecki"
-https://www.downtowndougbrown.com/feed/ "tech"
-http://arcadehacker.blogspot.com/feeds/posts/default "hacking"
-https://raw.githubusercontent.com/ungoogled-software/ungoogled-chromium-binaries/master/feed.xml "software"
-http://tbl.nu/feed.xml "tech"
-http://headinside.blogspot.com/feeds/posts/default "learning"
-http://cchalpha.blogspot.com/feeds/posts/default "kernel"
-https://anzwix.com/rss.php "news"
-https://www.frumble.de/blog/feed/
-https://mastransky.wordpress.com/feed.xml "firefox" "wayland"
-https://feeds.feedburner.com/TheArtOfManliness "selfimprovement"
-https://feeds.feedburner.com/StudyHacks "selfimprovement"
-https://lukesmith.xyz/rss.xml "blogs"
+https://gitweb.gentoo.org/repo/gentoo.git/atom/ "scm"
 https://glandium.org/blog/?feed=rss2 "tech"
+https://gnu.wildebeest.org/blog/mjw/feed/
+http://slax.org/rss.php "Subscriptions"
+https://lukesmith.xyz/rss.xml "blogs"
+https://mastransky.wordpress.com/feed.xml "firefox" "wayland"
+http://smspillaz.wordpress.com/feed/ "blogs"
+https://nickclifton.livejournal.com/data/rss "blogs"
+https://nwert.wordpress.com/feed/ "hacking"
+https://openmw.org/en/feed/ "blogs"
+https://raw.githubusercontent.com/ungoogled-software/ungoogled-chromium-binaries/master/feed.xml "software"
+https://rpcs3.net/blog/feed/
 https://rss.sueddeutsche.de/rss/Digital "german" "tech"
-https://boxofcables.dev/rss/
-https://feeds.feedburner.com/artofmanlinesspodcast "podcast"
-https://arcan-fe.com/feed/ "wayland"
-https://sourceforge.net/p/customrescuecd/activity/feed "livecd" "gentoo"
-https://www.ghacks.net/feed/ "tech"
-https://archlinux.org/feeds/packages/all/core/ "archlinux" "packages"
-https://thomasjbevan.substack.com/feed 
+https://rwmj.wordpress.com/feed/ "blogs"
+https://saschpe.wordpress.com/feed/
+https://steamdb.info/api/BlogRSS/
 https://thephilbert.io/feed/ "gcc" "tech"
-http://feeds.soundcloud.com/users/soundcloud:users:156044172/sounds.rss "podcast" "clarey"
+https://thomasjbevan.substack.com/feed 
+https://www.downtowndougbrown.com/feed/ "tech"
+https://www.frumble.de/blog/feed/
+https://www.ghacks.net/feed/ "tech"
+https://www.justwatch.com/blog/index.xml "blogs"
+https://www.kraxel.org/blog/feed/
+https://www.libretro.com/index.php/feed/
+https://www.osnews.com/feed/ "it"
+https://www.preining.info/blog/feed/
+https://www.quaddicted.com/forum/extern.php?action=feed&fid=5&type=atom
+http://syndication.thedailywtf.com/TheDailyWtf "fun"
+https://zombero.wordpress.com/feed/
+http://tbl.nu/feed.xml "tech"
+http://techgmm.blogspot.com/feeds/posts/default
+http://tenaciousreader.wordpress.com/feed/ "books"
+http://thecodelesscode.com/rss "fun"
+http://thecyberrecce.net/feed/
+http://triggeralert.blogspot.com/feeds/posts/default
+http://trixter.oldskool.org/feed/
+http://ttboj.wordpress.com/feed/ "it"
+http://umbcast.com/podcast/The_Upper_Memory_Block.xml
+http://vimcasts.org/feeds/ogg "it"
+http://virtuallyfun.superglobalmegacorp.com/?feed=rss2 "hacking"
+http://w00tsec.blogspot.com/feeds/posts/default "hacking"
+http://wololo.net/hbl/feed/ "hacking"
+http://www.bassblog.pro/feeds/posts/default
+http://www.benryves.com/rss
+http://www.bunniestudios.com/blog/?feed=rss2 "blogs"
+http://www.devttys0.com/feed/ "hacking"
+http://www.dietdoctor.com/feed "blogs"
+http://www.flexibleketogenic.com/feeds/posts/default "keto"
+http://www.fortheloveofwords.net/feed/ "books"
+http://www.fortressofdoors.com/rss/
+http://www.fosspatents.com/feeds/posts/default "blogs"
+http://www.hackaday.com/rss.xml "hacking"
+http://www.howtoforge.com/node/feed "it"
+http://www.informationisbeautiful.net/feed/
+http://www.kernellabs.com/blog/?feed=rss2 "blogs"
+http://www.ketotic.org/feeds/posts/default
+http://www.kev009.com/wp/feed/ "blogs"
+http://www.linuxbsdos.com/feed/ "it"
+http://www.linuxjournal.com/node/feed "it"
+http://www.linux-magazine.com/rss/feed/lmi_news "news"
+http://www.linuxtoday.com/biglt.rss "it"
+http://www.mobilegeeks.de/feed/ "niemiecki"
+http://www.ocsmag.com/feed/
+http://www.rantingdragon.com/feed/ "books"
+http://www.righto.com/feeds/posts/default
+http://www.ruled.me/feed/ "keto"
+http://www.schneier.com/blog/index.rdf "hacking"
+http://www.sciencemag.org/rss/current.xml "Subscriptions"
+http://www.sysadmindayph.com/blog/feed/ "it"
+http://www.windytan.com/feeds/posts/default "hacking"
+http://youarenotsosmart.com/feed/ "blogs"
+http://yuguangzhang.com/blog/feed/atom/ "blogs"
+http://zx81.zx81.free.fr/serendipity/index.php?/feeds/index.rss2 "blogs"

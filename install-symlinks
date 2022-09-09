@@ -5,4 +5,7 @@ stow . -v -t ~ \
     --ignore=.gitmodules \
     --ignore=.git \
     --ignore=install-symlinks \
+    --ignore=colorschemes \
     --ignore=README.md
+
+ln -v -s ${PWD}/.config/geany/colorschemes/colorschemes ~/.config/geany/colorschemes

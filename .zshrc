@@ -98,6 +98,7 @@ export PS2SDK=$PS2DEV/ps2sdk
 export GSKIT=$PS2DEV/gsKit
 export PATH=$PATH:$PS2DEV/bin:$PS2DEV/ee/bin:$PS2DEV/iop/bin:$PS2DEV/dvp/bin:$PS2SDK/bin
 
-[ -f /home/mkowalski/src/abs/bash-aliases/glpi.aliases ] && source /home/mkowalski/src/abs/bash-aliases/glpi.aliases
+[ -f /home/mkowalski/src/bash-aliases/glpi.aliases ] && source /home/mkowalski/src/bash-aliases/glpi.aliases
+
 
 export TERM=xterm-256color

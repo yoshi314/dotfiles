@@ -207,6 +207,7 @@ http://zx81.zx81.free.fr/serendipity/index.php?/feeds/index.rss2 "blogs"
 https://computer.rip/rss.xml
 https://infrequently.org/feed/
 https://seb.jambor.dev/feed.xml
-https://lxqt-project.org/feed.xml
-https://www.gurwinder.blog/feed
+https://lxqt-project.org/feed.xml "lxqt" "tech"
+https://www.gurwinder.blog/feed "philosophy"
 https://ludic.mataroa.blog/rss/
+https://blog.vaxry.net/feed "hyprland"

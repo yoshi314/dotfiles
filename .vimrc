@@ -10,6 +10,9 @@ set t_Co=256
 " always show vim-airline
 set laststatus=2
 
+" indicate current line
+set cursorline
+
 set number relativenumber " line numbering
 "set showcmd "always show cmdline
 "set cursorline " underline the cursor line

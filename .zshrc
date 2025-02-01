@@ -63,6 +63,7 @@ plugins=(thefuck vi-mode ssh-agent)
 # User configuration
 
 export PATH=/home/yoshi/opt/bin:$PATH
+export PATH="${KREW_ROOT:-$HOME/.krew}/bin:$PATH"
 
 source $ZSH/oh-my-zsh.sh
 

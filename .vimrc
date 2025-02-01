@@ -85,6 +85,9 @@ map zg/ <Plug>(incsearch-fuzzy-stay)
 
 " 
 nnoremap <F2> :set invpaste paste?<CR>
+nnoremap <F3> :wnext<CR>
+
+
 set pastetoggle=<F2>
 set showmode
 

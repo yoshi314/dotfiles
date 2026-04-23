@@ -2,6 +2,9 @@ browser "~/.newsboat/browser.sh %u"
 reload-threads 10
 show-read-feeds  no
 show-read-articles yes
-feed-sort-order firsttag
+feed-sort-order title
 bookmark-cmd "~/.newsboat/bookmark.sh"
 bookmark-autopilot yes
+
+keep-articles-days 60
+cleanup-on-quit yes

@@ -7,7 +7,6 @@ http://blog.barisione.org/feed/
 http://blog.ffwll.ch/feeds/posts/default "it"
 http://blog.flameeyes.eu/articles.atom "blogs"
 http://blog.frizk.net/feeds/posts/default
-http://blog.mozilla.org/nnethercote/feed/ "blogs"
 http://blog.sanctum.geek.nz/feed/ "blogs"
 http://blogs.coreboot.org/feed/ "blogs"
 http://blogs.kde.org/blog/feed "it"
@@ -203,7 +202,6 @@ http://www.windytan.com/feeds/posts/default "hacking"
 http://youarenotsosmart.com/feed/ "blogs"
 http://yuguangzhang.com/blog/feed/atom/ "blogs"
 http://zx81.zx81.free.fr/serendipity/index.php?/feeds/index.rss2 "blogs"
-
 https://computer.rip/rss.xml
 https://infrequently.org/feed/
 https://seb.jambor.dev/feed.xml
@@ -212,3 +210,5 @@ https://www.gurwinder.blog/feed "philosophy"
 https://ludic.mataroa.blog/rss/
 https://blog.vaxry.net/feed "hyprland"
 https://theplatformlaw.blog/feed
+https://nnethercote.github.io/feed.xml "tech" "rust"
+https://gfxstrand.net/faith/blog/feed/graphics.xml

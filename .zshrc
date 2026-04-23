@@ -1,3 +1,5 @@
+# Add deno completions to search path
+if [[ ":$FPATH:" != *":/home/kowalski/.zsh/completions:"* ]]; then export FPATH="/home/kowalski/.zsh/completions:$FPATH"; fi
 #vim mode
 bindkey -v
 
@@ -24,7 +26,7 @@ ZSH_THEME="cypher"
 # HYPHEN_INSENSITIVE="true"
 
 # Uncomment the following line to disable bi-weekly auto-update checks.
-# DISABLE_AUTO_UPDATE="true"
+DISABLE_AUTO_UPDATE="true"
 
 # Uncomment the following line to change how often to auto-update (in days).
 # export UPDATE_ZSH_DAYS=13
@@ -94,6 +96,8 @@ alias yta="yt-dlp -f bestaudio -x --audio-format mp3 --audio-quality 5 --add-met
 alias x1="cd /run/media/yoshi/X1"
 alias ytsubs="youtube-dl --all-subs --skip-download"
 
+alias vpn="sudo -E gpclient connect vpngp.assecobs.pl --browser /opt/microsoft/msedge/microsoft-edge -s /home/kowalski/work-sync/vpn/gp/routing-script"
+
 export QT_QPA_PLATFORMTHEME=qt5ct
 export QT_STYLE_OVERRIDE=gtk
 
@@ -112,3 +116,4 @@ eval "$(zoxide init zsh)"
 if [[ -n "$PS1" ]] && [[ -z "$TMUX" ]] && [[ -n "$SSH_CONNECTION" ]]; then
   tmux attach-session -t ssh_tmux || tmux new-session -s ssh_tmux
 fi
+. "/home/kowalski/.deno/env"

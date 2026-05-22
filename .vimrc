@@ -47,6 +47,7 @@ Plug 'othree/html5.vim'
 Plug 'blueyed/smarty.vim'
 Plug 'pangloss/vim-javascript'
 Plug 'mattn/emmet-vim'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 call plug#end()
 
@@ -110,3 +111,10 @@ vnoremap <C-c> "*y :let @+=@*<CR>
 "map <C-v> "yP
 
 let g:user_emmet_leader_key='<C-A>'
+
+" for building c++
+nnoremap <F5> :w<CR>:!g++ -std=c++20 % -o %:r && ./%:r<CR>
+
+" toggle header/source in coding
+nnoremap <leader>a :ClangdSwitchSourceHeader<CR>
+
